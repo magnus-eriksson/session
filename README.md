@@ -1,6 +1,6 @@
 # A dead simple session library in PHP
 
-[![Build Status](https://api.travis-ci.org/magnus-eriksson/session.svg)](https://travis-ci.org/magnus-eriksson/session)
+[![Build Status](https://api.travis-ci.org/magnus-eriksson/session.svg?branch=master)](https://travis-ci.org/magnus-eriksson/session)
 
 
 Manage PHP sessions and flash sessions in a simple way.
